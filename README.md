@@ -1,9 +1,8 @@
-# Introduction to React Hooks and State Hook
+# Sairam Portfolio
 
+
+-TECHNOLOGIES 
 - React Hooks
-  - Introduction
-  - State Hook
-- Function Components
-  - Adding State
 - State Hook
-  - Code Execution Flow
+- CSS FLEXBOX
+- REACT JS
