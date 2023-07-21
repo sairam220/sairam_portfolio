@@ -49,8 +49,8 @@ search, filters, sort by, etc..`,
       'Routing',
       'REST API Calls',
     ],
-    sourceCode: 'https://github.com/Morganbb104/Event_Planner_project2',
-    livePreview: 'https://obscure-chamber-98928.herokuapp.com/',
+    sourceCode: 'https://github.com/sairam220/Nxt_trndzs_sai.git',
+    livePreview: 'https://nxtz.ccbp.tech/',
   },
 
   {
