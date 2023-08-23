@@ -12,7 +12,7 @@ const about = {
   description:
     'At NxtWave’s CCBP 4.0 Academy, I’m currently learning full-stack development with a specialization in 4.0 technologies. In love with the coding challenges and hands-on projects. With Industry’s first ever IRC 4.0, getting ready to take on new challenges in the tech world',
   Resume:
-    'https://drive.google.com/file/d/1uo_0Q3CKGgx9giK_iqP_6z1jhdKPni_A/view?usp=sharing',
+    'https://drive.google.com/file/d/1e8Cmf9zL_91lfwGTCvRys00-SkmbOr9b/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/sairam-gudida-673480221/',
     github: 'https://github.com/sairam220',
